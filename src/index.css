@@ -47,11 +47,11 @@ All colors MUST be HSL.
 
     --radius: 0.75rem;
     
-    /* Gradient colors - Cyan with Light Violet */
-    --gradient-start: 185 80% 45%;
-    --gradient-mid: 280 60% 65%;
-    --gradient-mid-2: 195 75% 50%;
-    --gradient-end: 270 55% 60%;
+    /* Gradient colors - Cyan with Violet (stronger, less vibrant) */
+    --gradient-start: 185 65% 32%;
+    --gradient-mid: 280 50% 45%;
+    --gradient-mid-2: 195 60% 38%;
+    --gradient-end: 270 45% 42%;
     --gradient-light-blue: 200 83% 55%;
     --gradient-deep-blue: 225 75% 15%;
     
