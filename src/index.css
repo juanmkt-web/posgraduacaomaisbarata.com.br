@@ -47,11 +47,11 @@ All colors MUST be HSL.
 
     --radius: 0.75rem;
     
-    /* Gradient colors - Deep blue with golden amber */
-    --gradient-start: 225 70% 12%;
-    --gradient-mid: 35 85% 50%;
-    --gradient-mid-2: 210 75% 35%;
-    --gradient-end: 230 65% 18%;
+    /* Gradient colors - Warm orange and golden amber */
+    --gradient-start: 25 90% 45%;
+    --gradient-mid: 40 95% 55%;
+    --gradient-mid-2: 15 85% 50%;
+    --gradient-end: 35 90% 48%;
     --gradient-light-blue: 200 83% 55%;
     --gradient-deep-blue: 225 75% 15%;
     
