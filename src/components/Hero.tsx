@@ -27,7 +27,7 @@ const Hero = () => {
                 textShadow: "2px 2px 8px rgba(0, 0, 0, 0.2)",
               }}
             >
-              O MELHOR INVESTIMENTO <span className="text-accent"> PARA O SEU</span> CRESCIMENTO.
+              ACELERE SUA JORNADA <span className="text-accent"> RUMO AO SUCESSO</span> PROFISSIONAL.
             </h1>
 
             <p className="text-base sm:text-xl text-white/90 leading-relaxed mb-6 sm:mb-8">
