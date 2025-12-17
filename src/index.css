@@ -47,11 +47,11 @@ All colors MUST be HSL.
 
     --radius: 0.75rem;
     
-    /* Gradient colors - Gold, Orange & Yellow */
-    --gradient-start: 38 85% 45%;
-    --gradient-mid: 25 90% 50%;
-    --gradient-mid-2: 45 95% 55%;
-    --gradient-end: 32 80% 48%;
+    /* Gradient colors - Metallic Gold */
+    --gradient-start: 43 75% 42%;
+    --gradient-mid: 38 90% 58%;
+    --gradient-mid-2: 48 85% 52%;
+    --gradient-end: 35 70% 35%;
     --gradient-light-blue: 200 83% 55%;
     --gradient-deep-blue: 225 75% 15%;
     
