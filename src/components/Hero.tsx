@@ -27,12 +27,12 @@ const Hero = () => {
                 textShadow: "2px 2px 8px rgba(0, 0, 0, 0.2)",
               }}
             >
-              ACELERE SUA JORNADA <span className="text-accent"> RUMO AO SUCESSO</span> PROFISSIONAL.
+              O MELHOR INVESTIMENTO <span className="text-accent"> PARA O SEU</span> CRESCIMENTO.
             </h1>
 
             <p className="text-base sm:text-xl text-white/90 leading-relaxed mb-6 sm:mb-8">
-              Chega de adiar seus sonhos. Uma metodologia de ensino que se encaixa na sua rotina e abre as portas para
-              novas conquistas.
+              Não espere anos para ver resultados. Uma metodologia ágil e direta ao ponto, desenhada para quem quer se
+              destacar e ser promovido mais rápido.
             </p>
 
             <div className="mb-6 sm:mb-8">
@@ -45,7 +45,7 @@ const Hero = () => {
                   size="lg"
                   className="bg-accent text-accent-foreground hover:bg-accent/85 font-bold text-sm sm:text-lg px-6 sm:px-10 py-5 sm:py-7 rounded-full shadow-xl hover:shadow-2xl transition-all hover:-translate-y-1 animate-pulse-cta"
                 >
-                  INVESTIR NO MEU FUTURO <ArrowRight className="ml-2 h-4 w-4 sm:h-5 sm:w-5" />
+                  ACELERAR MINHA CARREIRA <ArrowRight className="ml-2 h-4 w-4 sm:h-5 sm:w-5" />
                 </Button>
               </a>
             </div>
