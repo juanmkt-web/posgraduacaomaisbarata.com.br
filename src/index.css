@@ -136,7 +136,7 @@ All colors MUST be HSL.
 @layer utilities {
   /* Static gradient background */
   .gradient-animated {
-    background: linear-gradient(135deg, hsl(var(--gradient-start)) 0%, hsl(var(--gradient-mid)) 35%, hsl(var(--gradient-mid-2)) 65%, hsl(var(--gradient-end)) 100%);
+    background: linear-gradient(135deg, hsl(var(--gradient-start)) 0%, hsl(var(--gradient-mid)) 30%, hsl(var(--gradient-mid-2)) 60%, hsl(var(--gradient-end)) 100%);
   }
   
   /* Gradient text */
