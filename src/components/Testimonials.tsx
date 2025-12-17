@@ -16,7 +16,7 @@ const testimonials = [
   {
     id: 2,
     quote:
-      "Eu precisava de um diferencial executivo. Unir gestão competitiva com a inteligência de dados foi o 'pulo do gato' para minha carreira. Hoje consigo antecipar tendências e entregar resultados sólidos.",
+      "O mercado está muito concorrido e eu sabia que, se não me atualizasse, ia acabar ficando pra trás. Esse MBA me ensinou a usar dados na prática, sem complicação. Agora apresento resultados concretos e a empresa passou a me olhar com outros olhos.",
     name: "José Carvalho Cruz",
     course: "MBA Executivo Em Gestão Competitiva e BI",
     photo: joseCarvalho,
@@ -24,7 +24,7 @@ const testimonials = [
   {
     id: 3,
     quote:
-      "Minha formação técnica era boa, mas me faltava tato com pessoas. A especialização me preparou para lidar com os desafios reais da liderança: gestão de conflitos, feedbacks assertivos e construção de times de alta performance.",
+      "Quando assumi a liderança, confesso que fiquei perdida. Lidar com gente é difícil e eu não sabia como cobrar sem criar um clima ruim. A pós foi minha salvação: aprendi técnicas reais para organizar a equipe e hoje o trabalho flui muito melhor.",
     name: "Amanda Maciel",
     course: "Gestão de Pessoas e Liderança",
     photo: amandaMaciel,
