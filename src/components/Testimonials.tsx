@@ -1,7 +1,7 @@
 import { Quote } from "lucide-react";
-import annaMartins from "@/assets/anna-martins.png";
-import aguinaldoRosa from "@/assets/aguinaldo-rosa.png";
-import pabloTeixeira from "@/assets/pablo-teixeira.png";
+import joseCarvalho from "@/assets/jose-carvalho-cruz.png";
+import aparecidaOliveira from "@/assets/aparecida-oliveira.png";
+import amandaMaciel from "@/assets/amanda-maciel.png";
 import { useState, useEffect } from "react";
 
 const testimonials = [
@@ -9,25 +9,25 @@ const testimonials = [
     id: 1,
     quote:
       "O RH deixou de ser apenas burocrático para ser estratégico. O curso me ensinou a alinhar a gestão de talentos com os objetivos da empresa, o que me deu muito mais visibilidade executiva.",
-    name: "Anna Martins",
+    name: "Aparecida Oliveira",
     course: "Gestão Estratégica de Pessoas",
-    photo: annaMartins,
+    photo: aparecidaOliveira,
   },
   {
     id: 2,
     quote:
       "Eu precisava de um diferencial executivo. Unir gestão competitiva com a inteligência de dados foi o 'pulo do gato' para minha carreira. Hoje consigo antecipar tendências e entregar resultados sólidos.",
-    name: "Aguinaldo Rosa",
+    name: "José Carvalho Cruz",
     course: "MBA Executivo Em Gestão Competitiva e BI",
-    photo: aguinaldoRosa,
+    photo: joseCarvalho,
   },
   {
     id: 3,
     quote:
       "Minha formação técnica era boa, mas me faltava tato com pessoas. A especialização me preparou para lidar com os desafios reais da liderança: gestão de conflitos, feedbacks assertivos e construção de times de alta performance.",
-    name: "Pablo Teixeira",
+    name: "Amanda Maciel",
     course: "Gestão de Pessoas e Liderança",
-    photo: pabloTeixeira,
+    photo: amandaMaciel,
   },
 ];
 
