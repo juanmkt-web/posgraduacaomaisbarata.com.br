@@ -17,15 +17,15 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 0 0% 20%;
 
-    /* Brand colors - Cyan matching gradient start */
-    --primary: 190 80% 45%;
+    /* Brand colors - #19C3E6 */
+    --primary: 190 82% 50%;
     --primary-foreground: 0 0% 100%;
     
-    --secondary: 260 50% 45%;
+    --secondary: 190 82% 50%;
     --secondary-foreground: 0 0% 100%;
     
     /* Cyan light for benefits section */
-    --cyan-light: 190 80% 50%;
+    --cyan-light: 190 82% 50%;
     --cyan-light-foreground: 0 0% 100%;
     
     /* Dark blue for backgrounds - MANTIDO */
@@ -34,8 +34,8 @@ All colors MUST be HSL.
     --muted: 210 20% 96%;
     --muted-foreground: 218 20% 40%;
 
-    /* CTA accent - Purple from gradient */
-    --accent: 260 50% 50%;
+    /* CTA accent - #19C3E6 */
+    --accent: 190 82% 50%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
@@ -43,7 +43,7 @@ All colors MUST be HSL.
 
     --border: 210 15% 88%;
     --input: 210 15% 88%;
-    --ring: 190 80% 45%;
+    --ring: 190 82% 50%;
 
     --radius: 0.75rem;
     
