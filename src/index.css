@@ -17,15 +17,15 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 0 0% 20%;
 
-    /* Brand colors - Blue palette */
-    --primary: 200 83% 55%;
+    /* Brand colors - Blue for contrast with warm gradient */
+    --primary: 199 89% 48%;
     --primary-foreground: 0 0% 100%;
     
-    --secondary: 200 83% 55%;
+    --secondary: 199 89% 48%;
     --secondary-foreground: 0 0% 100%;
     
     /* Cyan light for benefits section */
-    --cyan-light: 200 83% 55%;
+    --cyan-light: 199 89% 48%;
     --cyan-light-foreground: 0 0% 100%;
     
     /* Dark blue for backgrounds - MANTIDO */
@@ -34,8 +34,8 @@ All colors MUST be HSL.
     --muted: 210 20% 96%;
     --muted-foreground: 218 20% 40%;
 
-    /* CTA accent - Light blue #2BADEE */
-    --accent: 200 83% 55%;
+    /* CTA accent - Vibrant Blue for contrast */
+    --accent: 199 89% 48%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
@@ -43,7 +43,7 @@ All colors MUST be HSL.
 
     --border: 210 15% 88%;
     --input: 210 15% 88%;
-    --ring: 200 83% 55%;
+    --ring: 199 89% 48%;
 
     --radius: 0.75rem;
     
