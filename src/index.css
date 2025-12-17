@@ -47,11 +47,11 @@ All colors MUST be HSL.
 
     --radius: 0.75rem;
     
-    /* Gradient colors - Deep Purple > Blue > Cyan */
-    --gradient-start: 220 60% 35%;
-    --gradient-mid: 260 50% 40%;
-    --gradient-mid-2: 200 70% 45%;
-    --gradient-end: 190 80% 50%;
+    /* Gradient colors - Cyan > Blue > Deep Purple */
+    --gradient-start: 190 80% 50%;
+    --gradient-mid: 200 70% 45%;
+    --gradient-mid-2: 260 50% 40%;
+    --gradient-end: 220 60% 35%;
     --gradient-light-blue: 200 83% 55%;
     --gradient-deep-blue: 225 75% 15%;
     
