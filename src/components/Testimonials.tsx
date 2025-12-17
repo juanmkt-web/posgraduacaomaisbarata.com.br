@@ -8,25 +8,25 @@ const testimonials = [
   {
     id: 1,
     quote:
-      "O mercado industrial não tolera desperdícios. O curso me preparou para coordenar equipes e melhorar os processos produtivos, o que me rendeu uma posição de supervisão.",
+      "O RH deixou de ser apenas burocrático para ser estratégico. O curso me ensinou a alinhar a gestão de talentos com os objetivos da empresa, o que me deu muito mais visibilidade executiva.",
     name: "Anna Martins",
-    course: "Gestão de Produção Industrial",
+    course: "Gestão Estratégica de Pessoas",
     photo: annaMartins,
   },
   {
     id: 2,
     quote:
-      "Ensinar exatas é um desafio constante. As novas metodologias que aprendi transformaram minhas aulas: hoje meus alunos entendem a lógica por trás das fórmulas e participam muito mais.",
+      "Eu precisava de um diferencial executivo. Unir gestão competitiva com a inteligência de dados foi o 'pulo do gato' para minha carreira. Hoje consigo antecipar tendências e entregar resultados sólidos.",
     name: "Aguinaldo Rosa",
-    course: "Metodologia do Ensino da Matemática e da Física",
+    course: "MBA Executivo Em Gestão Competitiva e BI",
     photo: aguinaldoRosa,
   },
   {
     id: 3,
     quote:
-      "O Processo Penal exige precisão cirúrgica. A especialização aprofundou meu conhecimento sobre recursos e nulidades, me dando segurança total para atuar em audiências e no tribunal do júri.",
+      "Minha formação técnica era boa, mas me faltava tato com pessoas. A especialização me preparou para lidar com os desafios reais da liderança: gestão de conflitos, feedbacks assertivos e construção de times de alta performance.",
     name: "Pablo Teixeira",
-    course: "Direito Processual Penal",
+    course: "Gestão de Pessoas e Liderança",
     photo: pabloTeixeira,
   },
 ];
